@@ -1,1 +1,1 @@
-# General-Mehod-to-drop-outliers
+# General-Mehod-to-handle-outliers
