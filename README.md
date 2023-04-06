@@ -1,4 +1,4 @@
-# General-Method-to-handle-outliers
+# handle-outliers
 
 # Contents:
    # 0. Needed Libraries
